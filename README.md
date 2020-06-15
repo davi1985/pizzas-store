@@ -10,7 +10,7 @@ Criação de uma aplicação de venda de pizzas com as funcionalidade de carrinh
 <img src="assets/screenshots/card.png"/>
 
 <div style="display:flex; height: 400px; width:100%">
-  <img style="padding:4px" src="assets/screenshots/mobile-full.png"/>
-  <img style="padding:4px" src="assets/screenshots/mobile-modal.png"/>
-  <img style="padding:4px" src="assets/screenshots/card-mobile.png"/>
+  <img style="padding:4px; width:30%" src="assets/screenshots/mobile-full.png"/>
+  <img style="padding:4px;width:30%" src="assets/screenshots/mobile-modal.png"/>
+  <img style="padding:4px;width:30%" src="assets/screenshots/card-mobile.png"/>
 </div>
